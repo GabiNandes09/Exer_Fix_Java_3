@@ -2,4 +2,6 @@ Fazer um programa para ler os dados de N produtos (N fornecido pelo usuário). A
 mesma ordem em que foram digitados. Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfândega, e
 produtos usados possuem data de fabricação. Estes dados específicos devem ser acrescentados na etiqueta de preço conforme
 exemplo (próxima página). Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto.
-Favor implementar o programa conforme projeto ao lado.![Alt text](image.png)
+Favor implementar o programa conforme projeto ao lado.!
+
+[Alt text](image.png)
